@@ -39,9 +39,9 @@
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
+链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanlala/MIGU/main/IPTV.m3u`[推荐✨]
 
-链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
+链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanlala/MIGU/main/IPTV-tvbox.txt`[需IPv6支持]
 
 ## 🛠️EPG
 
@@ -49,8 +49,8 @@
 
 ### 📆EPG文件地址[tvxml格式]：
 - **稳定版：** 稳定、定时更新、信息准确🎈
-  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`[推荐✨]
-  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
+  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanlala/MIGU/main/tvxml.xml`[推荐✨]
+  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/zhanlala/MIGU/main/tvxml.xml`
 - **详情版：** 内容详细、定时更新、尝鲜🎈
   - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
   - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
@@ -82,9 +82,9 @@
 
 ## 🎦频道展示
 展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img1.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img2.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img3.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/zhanlala/MIGU@main/img/img1.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/zhanlala/MIGU@main/img/img2.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/zhanlala/MIGU@main/img/img3.jpg"></p>
 
 ## 🆕更新
 - 2024.02.27 新增重温经典🎈🎈/新增上海/RT频道 PS：河南地方台测试有问题移除
