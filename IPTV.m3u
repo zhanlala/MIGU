@@ -142,7 +142,7 @@ http://[2409:8087:7001:20:3::3]/dbiptv.sn.chinamobile.com/PLTV/4/224/3221225785/
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="A18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="总台高清",CCTV-17 农业农村
 http://[2409:8087:7001:20:3::2]/dbiptv.sn.chinamobile.com/PLTV/4/224/3221226198/index.m3u8
-#EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="总台高清",CCTV-16 4k
+#EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV16.png" group-title="总台高清",CCTV-16 4k
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="总台高清",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
@@ -264,7 +264,7 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B40" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视高清",厦门卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="B41" tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HKS.png" group-title="卫视高清",香港卫视
+#EXTINF:-1 tvg-id="B41" tvg-name="香港卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HKS.png" group-title="卫视高清",香港卫视
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 
 #数字高清/40个频道
@@ -472,11 +472,11 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SH06" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dfcj.png" group-title="地方特色",东方财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="SH07" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="地方特色",上海教育
+#EXTINF:-1 tvg-id="SH07" tvg-name="上海教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai6.png" group-title="地方特色",上海教育
 http://140.249.247.141/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="SH08" tvg-name="新视觉" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xsj.png" group-title="地方特色",新视觉
+#EXTINF:-1 tvg-id="SH08" tvg-name="新视觉" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/xsj.png" group-title="地方特色",新视觉
 http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="SH09" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mlzq.png" group-title="地方特色",魅力足球
+#EXTINF:-1 tvg-id="SH09" tvg-name="魅力足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mlzq.png" group-title="地方特色",魅力足球
 http://140.249.247.141/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 
 
@@ -545,11 +545,11 @@ https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000326/index.m3u8?
 #EXTINF:-1 tvg-id="GS02" tvg-name="甘肃公共应急" tvg-logo="https://upload.112114.xyz/logo/%E7%94%98%E8%82%83%E5%85%AC%E5%85%B1%E5%BA%94%E6%80%A5.png" group-title="地方特色",甘肃公共应急
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000325/index.m3u8?
-#EXTINF:-1 tvg-id="GS03" tvg-name="甘肃都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu1.png" group-title="地方特色",甘肃都市
+#EXTINF:-1 tvg-id="GS03" tvg-name="甘肃都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu1.png" group-title="地方特色",甘肃都市
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000324/index.m3u8?
-#EXTINF:-1 tvg-id="GS04" tvg-name="甘肃少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu4.png" group-title="地方特色",甘肃少儿
+#EXTINF:-1 tvg-id="GS04" tvg-name="甘肃少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu4.png" group-title="地方特色",甘肃少儿
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000327/index.m3u8?
-#EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo=https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Gansu3.png" group-title="地方特色",甘肃文化影视
+#EXTINF:-1 tvg-id="GS05" tvg-name="甘肃文化影视" tvg-logo=https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gansu3.png" group-title="地方特色",甘肃文化影视
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000323/index.m3u8?
 #EXTINF:-1 tvg-id="GS06" tvg-name="甘肃兰州新闻综合" tvg-logo="https://upload.112114.xyz/logo/%E5%85%B0%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方特色",甘肃兰州新闻综合
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
@@ -595,437 +595,396 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 #广东/7个频道
-#EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方特色",广东珠江
+#EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong9.png" group-title="地方特色",广东珠江
 http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="GD02" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="地方特色",广东新闻
+#EXTINF:-1 tvg-id="GD02" tvg-name="广东新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong1.png" group-title="地方特色",广东新闻
 http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="GD03" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="地方特色",广东民生
+#EXTINF:-1 tvg-id="GD03" tvg-name="广东民生" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong2.png" group-title="地方特色",广东民生
 http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="GD04" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="地方特色",广东体育
+#EXTINF:-1 tvg-id="GD04" tvg-name="广东体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong5.png" group-title="地方特色",广东体育
 http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="GD05" tvg-name="广东经济科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="地方特色",广东经济科教
+#EXTINF:-1 tvg-id="GD05" tvg-name="广东经济科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong7.png" group-title="地方特色",广东经济科教
 http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="GD06" tvg-name="广东大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="地方特色",广东大湾区卫视
+#EXTINF:-1 tvg-id="GD06" tvg-name="广东大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong10.png" group-title="地方特色",广东大湾区卫视
 http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="GD07" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png" group-title="地方特色",广东影视
+#EXTINF:-1 tvg-id="GD07" tvg-name="广东影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guangdong3.png" group-title="地方特色",广东影视
 http://iptv.hiper25.com:42487/gdyingshi/video.m3u8?token=1710447330
 
 
 #四川/6个频道
-#EXTINF:-1 tvg-id="SC01" tvg-name="四川经济" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="地方特色",四川经济
+#EXTINF:-1 tvg-id="SC01" tvg-name="四川经济" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan1.png" group-title="地方特色",四川经济
 http://171.88.134.186:3333/udp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="SC02" tvg-name="四川文化旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="地方特色",四川文化旅游
+#EXTINF:-1 tvg-id="SC02" tvg-name="四川文化旅游" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan2.png" group-title="地方特色",四川文化旅游
 http://171.88.134.186:3333/udp/239.93.1.102:5140
-#EXTINF:-1 tvg-id="SC03" tvg-name="四川妇女儿童" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan5.png" group-title="地方特色",四川妇女儿童
+#EXTINF:-1 tvg-id="SC03" tvg-name="四川妇女儿童" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan5.png" group-title="地方特色",四川妇女儿童
 http://171.88.134.186:3333/udp/239.93.0.219:5140
-#EXTINF:-1 tvg-id="SC04" tvg-name="四川影视文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan4.png" group-title="地方特色",四川影视文艺
+#EXTINF:-1 tvg-id="SC04" tvg-name="四川影视文艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan4.png" group-title="地方特色",四川影视文艺
 http://171.88.134.186:3333/udp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="SC05" tvg-name="四川新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png" group-title="地方特色",四川新闻
+#EXTINF:-1 tvg-id="SC05" tvg-name="四川新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan3.png" group-title="地方特色",四川新闻
 http://171.88.134.186:3333/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-id="SC06" tvg-name="四川公共乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="地方特色",四川公共乡村
+#EXTINF:-1 tvg-id="SC06" tvg-name="四川公共乡村" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan6.png" group-title="地方特色",四川公共乡村
 http://171.88.134.186:3333/udp/239.93.0.52:5140
 
 #内蒙古/7个频道
-#EXTINF:-1 tvg-id="NM01" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语卫视
+#EXTINF:-1 tvg-id="NM01" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-#EXTINF:-1 tvg-id="NM02" tvg-name="内蒙古新闻综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng1.png" group-title="地方特色",内蒙古新闻综合
+#EXTINF:-1 tvg-id="NM02" tvg-name="内蒙古新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng1.png" group-title="地方特色",内蒙古新闻综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 tvg-id="NM03" tvg-name="内蒙古经济生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng3.png" group-title="地方特色",内蒙古经济生活
+#EXTINF:-1 tvg-id="NM03" tvg-name="内蒙古经济生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng3.png" group-title="地方特色",内蒙古经济生活
 https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-#EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng5.png" group-title="地方特色",内蒙古少儿频道
+#EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng5.png" group-title="地方特色",内蒙古少儿频道
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 tvg-id="NM05" tvg-name="内蒙古文体娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng2.png" group-title="地方特色",内蒙古文体娱乐
+#EXTINF:-1 tvg-id="NM05" tvg-name="内蒙古文体娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng2.png" group-title="地方特色",内蒙古文体娱乐
 https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-#EXTINF:-1 tvg-id="NM06" tvg-name="内蒙古农牧频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng4.png" group-title="地方特色",内蒙古农牧频道
+#EXTINF:-1 tvg-id="NM06" tvg-name="内蒙古农牧频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng4.png" group-title="地方特色",内蒙古农牧频道
 https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-#EXTINF:-1 tvg-id="NM07" tvg-name="内蒙古蒙古语文化" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语文化
+#EXTINF:-1 tvg-id="NM07" tvg-name="内蒙古蒙古语文化" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
 #北京/7个频道
-#EXTINF:-1 tvg-id="BJ01" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="地方特色",北京新闻
+#EXTINF:-1 tvg-id="BJ01" tvg-name="北京新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing1.png" group-title="地方特色",北京新闻
 http://218.241.192.50:8808/udp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
+#EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing4.png" group-title="地方特色",北京影视
 http://218.241.192.50:8808/udp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
+#EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing3.png" group-title="地方特色",北京文艺
 http://218.241.192.50:8808/udp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
+#EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing7.png" group-title="地方特色",北京生活
 http://218.241.192.50:8808/udp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BJ05" tvg-name="北京国际" tvg-logo="https://upload.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="地方特色",北京国际
 http://218.241.192.50:8808/udp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
+#EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",北京少儿
 http://218.241.192.50:8808/udp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
+#EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing2.png" group-title="地方特色",北京财经
 http://218.241.192.50:8808/udp/239.3.1.116:8000
 
 #江苏/7个频道
-#EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
+#EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://117.86.51.241:8888/rtp/239.49.9.35:6000
-#EXTINF:-1 tvg-id="JS02" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="地方特色",江苏影视
+#EXTINF:-1 tvg-id="JS02" tvg-name="江苏影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu4.png" group-title="地方特色",江苏影视
 http://117.86.51.241:8888/rtp/239.49.9.38:6000
-#EXTINF:-1 tvg-id="JS03" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="地方特色",江苏综艺
+#EXTINF:-1 tvg-id="JS03" tvg-name="江苏综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu3.png" group-title="地方特色",江苏综艺
 http://117.86.51.241:8888/rtp/239.49.9.36:6000
-#EXTINF:-1 tvg-id="JS04" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="地方特色",江苏新闻
+#EXTINF:-1 tvg-id="JS04" tvg-name="江苏新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu1.png" group-title="地方特色",江苏新闻
 http://117.86.51.241:8888/rtp/239.49.9.40:6000
 #EXTINF:-1 tvg-id="JS05" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="地方特色",优漫卡通
 http://180.126.96.225:8800/rtp/239.49.9.39:6000
-#EXTINF:-1 tvg-id="JS06" tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="地方特色",江苏体育
+#EXTINF:-1 tvg-id="JS06" tvg-name="江苏体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu5.png" group-title="地方特色",江苏体育
 http://117.86.51.241:8888/rtp/239.49.9.37:6000
-#EXTINF:-1 tvg-id="JS07" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="地方特色",江苏教育
+#EXTINF:-1 tvg-id="JS07" tvg-name="江苏教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu7.png" group-title="地方特色",江苏教育
 http://117.86.51.241:8888/rtp/239.49.9.42:6000
 
 #港澳台/10个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="xg02" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" tvg-name="TVB明珠台"  group-title="港澳台",TVB明珠台
+#EXTINF:-1 tvg-id="xg02" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" tvg-name="TVB明珠台"  group-title="港澳台",TVB明珠台
 http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="xg03" tvg-logo="https://upload.112114.xyz/logo/TVB4.png" tvg-name="TVB无线新闻"  group-title="港澳台",TVB无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="xg04" tvg-logo="https://upload.112114.xyz/logo/TVB5.png" tvg-name="TVB无线财经"  group-title="港澳台",TVB无线财经
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-name="爱尔达体育Ⅰ台"  group-title="港澳台",爱尔达体育Ⅰ台
+#EXTINF:-1 tvg-id="xg05" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA4.png" tvg-name="爱尔达体育Ⅰ台"  group-title="港澳台",爱尔达体育Ⅰ台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv
-#EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" tvg-name="爱尔达体育Ⅱ台"  group-title="港澳台",爱尔达体育Ⅱ台
+#EXTINF:-1 tvg-id="xg06" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA5.png" tvg-name="爱尔达体育Ⅱ台"  group-title="港澳台",爱尔达体育Ⅱ台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv
-#EXTINF:-1 tvg-id="xg07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png"  group-title="港澳台",爱尔达体育Ⅲ台
+#EXTINF:-1 tvg-id="xg07" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA6.png"  group-title="港澳台",爱尔达体育Ⅲ台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
-#EXTINF:-1 tvg-id="xg08" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png"  group-title="港澳台",中天新闻
+#EXTINF:-1 tvg-id="xg08" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"  group-title="港澳台",中天新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
-#EXTINF:-1 tvg-id="xg09" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png"  group-title="港澳台",东森新闻
+#EXTINF:-1 tvg-id="xg09" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png"  group-title="港澳台",东森新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
-#EXTINF:-1 tvg-id="xg10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png"  group-title="港澳台",TVBS
+#EXTINF:-1 tvg-id="xg10" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png"  group-title="港澳台",TVBS
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
 
-#EXTINF:-1 tvg-id="tx01" tvg-name="测试频道" group-title="测试港澳台",華麗(翡翠台)
-https://sc2024.stream-link.org/live/232492476.php?id=h788gha
+#EXTM3U8
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",華麗(翡翠台)
+https://sc2024.stream-link.org/live/232492476.php?id=h294nht
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",翡翠台
-https://sc2024.stream-link.org/live/232492476.php?id=h072rhm
+https://sc2024.stream-link.org/live/232492476.php?id=h028chh
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",J2台
-https://sc2024.stream-link.org/live/232492476.php?id=h446ehk
+https://sc2024.stream-link.org/live/232492476.php?id=h372mhn
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",無綫新聞台
-https://sc2024.stream-link.org/live/232492476.php?id=h882uhv
+https://sc2024.stream-link.org/live/232492476.php?id=h698bha
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",無綫財經·體育·資訊台
-https://sc2024.stream-link.org/live/232492476.php?id=h766fhb
+https://sc2024.stream-link.org/live/232492476.php?id=h927mhu
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",無綫新聞台
-https://sc2024.stream-link.org/live/232492476.php?id=h496ghe
+https://sc2024.stream-link.org/live/232492476.php?id=h355whc
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",無綫財經·體育·資訊台
-https://sc2024.stream-link.org/live/232492476.php?id=h677bhq
+https://sc2024.stream-link.org/live/232492476.php?id=h555ehr
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",now新聞台
-https://sc2024.stream-link.org/live/232492476.php?id=h580khj
+https://sc2024.stream-link.org/live/232492476.php?id=h136shw
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",now財經台
-https://sc2024.stream-link.org/live/232492476.php?id=h793ahg
+https://sc2024.stream-link.org/live/232492476.php?id=h472zhw
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",ViuTV99
-https://sc2024.stream-link.org/live/232492476.php?id=h263uhp
+https://sc2024.stream-link.org/live/232492476.php?id=h762thd
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",TVB娛樂新聞台
-https://sc2024.stream-link.org/live/232492476.php?id=h992zhe
+https://sc2024.stream-link.org/live/232492476.php?id=h345shm
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",港台电视31
-https://sc2024.stream-link.org/live/232492476.php?id=h987uhk
+https://sc2024.stream-link.org/live/232492476.php?id=h058ghp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",港台电视32
-https://sc2024.stream-link.org/live/232492476.php?id=h393ahf
+https://sc2024.stream-link.org/live/232492476.php?id=h927phn
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",港台电视33
-https://sc2024.stream-link.org/live/232492476.php?id=h599zhj
+https://sc2024.stream-link.org/live/232492476.php?id=h912dhu
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",香港國際財經台
-https://sc2024.stream-link.org/live/232492476.php?id=h818qhf
+https://sc2024.stream-link.org/live/232492476.php?id=h513khb
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",香港開電視
-https://sc2024.stream-link.org/live/232492476.php?id=h846shg
+https://sc2024.stream-link.org/live/232492476.php?id=h318whg
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",香港開電視資訊台
-https://sc2024.stream-link.org/live/232492476.php?id=h082nhz
+https://sc2024.stream-link.org/live/232492476.php?id=h489mhf
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",鳳凰衛視資訊台
-https://sc2024.stream-link.org/live/232492476.php?id=h425dha
+https://sc2024.stream-link.org/live/232492476.php?id=h226ghj
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",鳳凰衛視中文台
-https://sc2024.stream-link.org/live/232492476.php?id=h872ghm
+https://sc2024.stream-link.org/live/232492476.php?id=h515zhg
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",鳳凰衛視香港台
-https://sc2024.stream-link.org/live/232492476.php?id=h592rhn
+https://sc2024.stream-link.org/live/232492476.php?id=h256nhk
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",澳門蓮花衛視
-https://sc2024.stream-link.org/live/232492476.php?id=h106vhj
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",TVB星河台(粵語)
-https://sc2024.stream-link.org/live/232492476.php?id=h532hhm
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",TVB星河台(國語)
-https://sc2024.stream-link.org/live/232492476.php?id=h754jhe
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",TVB千禧經典台
-https://sc2024.stream-link.org/live/232492476.php?id=h032nhj
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",天映頻道
-https://sc2024.stream-link.org/live/232492476.php?id=h488whb
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",MytvSuper Free
-https://sc2024.stream-link.org/live/232492476.php?id=h545zhq
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",亞洲劇集台
-https://sc2024.stream-link.org/live/232492476.php?id=h743khp
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",華語劇集台
-https://sc2024.stream-link.org/live/232492476.php?id=h665dhg
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",美亞電影台
-https://sc2024.stream-link.org/live/232492476.php?id=c530vca
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",viu劇集台
-https://sc2024.stream-link.org/live/232492476.php?id=h401fhg
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",now華劇台
-https://sc2024.stream-link.org/live/232492476.php?id=h042ehp
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",nowJelli紫金國際
-https://sc2024.stream-link.org/live/232492476.php?id=h368zhb
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",Asian Food Network
-https://sc2024.stream-link.org/live/232492476.php?id=h285mha
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",Channel 8
-https://sc2024.stream-link.org/live/232492476.php?id=h460rhf
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",Channel U
-https://sc2024.stream-link.org/live/232492476.php?id=h312mhs
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",HBO Asia
-https://sc2024.stream-link.org/live/232492476.php?id=h151phr
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",HBO Family Asia
-https://sc2024.stream-link.org/live/232492476.php?id=h567chb
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",HBO Hits Asia
-https://sc2024.stream-link.org/live/232492476.php?id=h578thv
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",HBO Signature Asia
-https://sc2024.stream-link.org/live/232492476.php?id=h308bhv
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试影院",Cinemax Asia
-https://sc2024.stream-link.org/live/232492476.php?id=h622whc
+https://sc2024.stream-link.org/live/232492476.php?id=h643whd
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",TVB星河台(粵語)
+https://sc2024.stream-link.org/live/232492476.php?id=h414dhq
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",TVB星河台(國語)
+https://sc2024.stream-link.org/live/232492476.php?id=h121phh
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",TVB千禧經典台
+https://sc2024.stream-link.org/live/232492476.php?id=h553uhw
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",天映頻道
+https://sc2024.stream-link.org/live/232492476.php?id=h428ghb
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",MytvSuper Free
+https://sc2024.stream-link.org/live/232492476.php?id=h639chw
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",亞洲劇集台
+https://sc2024.stream-link.org/live/232492476.php?id=h233dha
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",華語劇集台
+https://sc2024.stream-link.org/live/232492476.php?id=h308khk
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",美亞電影台
+https://sc2024.stream-link.org/live/232492476.php?id=c186nck
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",viu劇集台
+https://sc2024.stream-link.org/live/232492476.php?id=h686mhd
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",now華劇台
+https://sc2024.stream-link.org/live/232492476.php?id=h447she
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",nowJelli紫金國際
+https://sc2024.stream-link.org/live/232492476.php?id=h458aht
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",Asian Food Network
+https://sc2024.stream-link.org/live/232492476.php?id=h764ahh
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",Channel 8
+https://sc2024.stream-link.org/live/232492476.php?id=h973bhd
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",Channel U
+https://sc2024.stream-link.org/live/232492476.php?id=h426fhe
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",HBO Asia
+https://sc2024.stream-link.org/live/232492476.php?id=h376uhr
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",HBO Family Asia
+https://sc2024.stream-link.org/live/232492476.php?id=h436zht
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",HBO Hits Asia
+https://sc2024.stream-link.org/live/232492476.php?id=h435uhq
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",HBO Signature Asia
+https://sc2024.stream-link.org/live/232492476.php?id=h198ehg
+#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试剧集",Cinemax Asia
+https://sc2024.stream-link.org/live/232492476.php?id=h618the
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",now精選體育
-https://sc2024.stream-link.org/live/232492476.php?id=s116gsn
+https://sc2024.stream-link.org/live/232492476.php?id=s316usm
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",now Sports 1
-https://sc2024.stream-link.org/live/232492476.php?id=s602hsh
+https://sc2024.stream-link.org/live/232492476.php?id=s395hsc
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",CBS Sports Network
-https://sc2024.stream-link.org/live/232492476.php?id=s017fsk
+https://sc2024.stream-link.org/live/232492476.php?id=s721ase
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",博斯高球台
-https://sc2024.stream-link.org/live/232492476.php?id=s839dsr
+https://sc2024.stream-link.org/live/232492476.php?id=s766kst
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",博斯運動一台
-https://sc2024.stream-link.org/live/232492476.php?id=s323hst
+https://sc2024.stream-link.org/live/232492476.php?id=s382qst
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",博斯網球台
-https://sc2024.stream-link.org/live/232492476.php?id=s216zsh
+https://sc2024.stream-link.org/live/232492476.php?id=s027fsb
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",博斯無限台
-https://sc2024.stream-link.org/live/232492476.php?id=s877csr
+https://sc2024.stream-link.org/live/232492476.php?id=s261wsv
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",DAZN F1
-https://sc2024.stream-link.org/live/232492476.php?id=s069nsn
+https://sc2024.stream-link.org/live/232492476.php?id=s183dsw
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",DAZN Laliga
-https://sc2024.stream-link.org/live/232492476.php?id=s772hsn
+https://sc2024.stream-link.org/live/232492476.php?id=s866bse
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Unbeaten
-https://sc2024.stream-link.org/live/232492476.php?id=s410tsq
+https://sc2024.stream-link.org/live/232492476.php?id=s892zsz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",beIN SPORTS XTRA
-https://sc2024.stream-link.org/live/232492476.php?id=s861psp
+https://sc2024.stream-link.org/live/232492476.php?id=s133rsk
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",beIN SPORTS
-https://sc2024.stream-link.org/live/232492476.php?id=s160msu
+https://sc2024.stream-link.org/live/232492476.php?id=s140jss
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",beIN SPORTS 2
-https://sc2024.stream-link.org/live/232492476.php?id=s785gsu
+https://sc2024.stream-link.org/live/232492476.php?id=s274esv
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",beIN SPORTS 3
-https://sc2024.stream-link.org/live/232492476.php?id=s805qst
+https://sc2024.stream-link.org/live/232492476.php?id=s891vsg
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Astro SUPERSPORT
-https://sc2024.stream-link.org/live/232492476.php?id=s083mst
+https://sc2024.stream-link.org/live/232492476.php?id=s516esj
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Astro SUPERSPORT 2
-https://sc2024.stream-link.org/live/232492476.php?id=s194bsf
+https://sc2024.stream-link.org/live/232492476.php?id=s355ssk
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Astro SUPERSPORT 3
-https://sc2024.stream-link.org/live/232492476.php?id=s569nsj
+https://sc2024.stream-link.org/live/232492476.php?id=s060rsf
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Astro SUPERSPORT 4
-https://sc2024.stream-link.org/live/232492476.php?id=s738tsb
+https://sc2024.stream-link.org/live/232492476.php?id=s252ase
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Peacock Premier League
-https://sc2024.stream-link.org/live/232492476.php?id=s281dsf
+https://sc2024.stream-link.org/live/232492476.php?id=s024jsq
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sports Premier League
-https://sc2024.stream-link.org/live/232492476.php?id=s942msm
+https://sc2024.stream-link.org/live/232492476.php?id=s499fsk
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sports Action
-https://sc2024.stream-link.org/live/232492476.php?id=s131nsk
+https://sc2024.stream-link.org/live/232492476.php?id=s215wsq
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sports Cricket
-https://sc2024.stream-link.org/live/232492476.php?id=s275wsb
+https://sc2024.stream-link.org/live/232492476.php?id=s583fse
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sports F1
-https://sc2024.stream-link.org/live/232492476.php?id=s744vse
+https://sc2024.stream-link.org/live/232492476.php?id=s834cse
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sports Football
-https://sc2024.stream-link.org/live/232492476.php?id=s203usu
+https://sc2024.stream-link.org/live/232492476.php?id=s831sss
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sports Main Event
-https://sc2024.stream-link.org/live/232492476.php?id=s777nsa
+https://sc2024.stream-link.org/live/232492476.php?id=s582asw
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sports Mix
-https://sc2024.stream-link.org/live/232492476.php?id=s986ksc
+https://sc2024.stream-link.org/live/232492476.php?id=s027hsd
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sport Arena
-https://sc2024.stream-link.org/live/232492476.php?id=s021ssr
+https://sc2024.stream-link.org/live/232492476.php?id=s646est
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sport Calcio
-https://sc2024.stream-link.org/live/232492476.php?id=s730jsp
+https://sc2024.stream-link.org/live/232492476.php?id=s949tsp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sport Golf
-https://sc2024.stream-link.org/live/232492476.php?id=s663psb
+https://sc2024.stream-link.org/live/232492476.php?id=s765hss
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sport Max
-https://sc2024.stream-link.org/live/232492476.php?id=s807csm
+https://sc2024.stream-link.org/live/232492476.php?id=s537ksm
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sport MotoGP
-https://sc2024.stream-link.org/live/232492476.php?id=s172bsz
+https://sc2024.stream-link.org/live/232492476.php?id=s531wsa
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sport NBA
-https://sc2024.stream-link.org/live/232492476.php?id=s586nsf
+https://sc2024.stream-link.org/live/232492476.php?id=s544tsp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sport Tennis
-https://sc2024.stream-link.org/live/232492476.php?id=s897ksa
+https://sc2024.stream-link.org/live/232492476.php?id=s427ksh
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Sky Sport Uno
-https://sc2024.stream-link.org/live/232492476.php?id=s007ssv
+https://sc2024.stream-link.org/live/232492476.php?id=s248wsk
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",NBA TV
-https://sc2024.stream-link.org/live/232492476.php?id=s544nsn
+https://sc2024.stream-link.org/live/232492476.php?id=s122hsu
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",TNT Sports 1
-https://sc2024.stream-link.org/live/232492476.php?id=s856csr
+https://sc2024.stream-link.org/live/232492476.php?id=s504dss
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",TNT Sports 2
-https://sc2024.stream-link.org/live/232492476.php?id=s387bss
+https://sc2024.stream-link.org/live/232492476.php?id=s364rsr
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",TNT Sports 3
-https://sc2024.stream-link.org/live/232492476.php?id=s345fse
+https://sc2024.stream-link.org/live/232492476.php?id=s073psf
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",TNT Sports 4
-https://sc2024.stream-link.org/live/232492476.php?id=s925qsz
+https://sc2024.stream-link.org/live/232492476.php?id=s676rsq
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Viaplay Sports 1
-https://sc2024.stream-link.org/live/232492476.php?id=s702hsh
+https://sc2024.stream-link.org/live/232492476.php?id=s366rsk
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Viaplay Sports 2
-https://sc2024.stream-link.org/live/232492476.php?id=s390tsz
+https://sc2024.stream-link.org/live/232492476.php?id=s650gsv
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",SPOTV
-https://sc2024.stream-link.org/live/232492476.php?id=s640zsh
+https://sc2024.stream-link.org/live/232492476.php?id=s049fse
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",SPOTV2
-https://sc2024.stream-link.org/live/232492476.php?id=s062qst
+https://sc2024.stream-link.org/live/232492476.php?id=s201asz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",now英超1台
-https://sc2024.stream-link.org/live/232492476.php?id=s426zsk
+https://sc2024.stream-link.org/live/232492476.php?id=s259wsc
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",ESPN
-https://sc2024.stream-link.org/live/232492476.php?id=s116hsj
+https://sc2024.stream-link.org/live/232492476.php?id=s927asd
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",ESPN 2
-https://sc2024.stream-link.org/live/232492476.php?id=s263vsn
+https://sc2024.stream-link.org/live/232492476.php?id=s459wsa
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",ESPN U
-https://sc2024.stream-link.org/live/232492476.php?id=s438gsd
+https://sc2024.stream-link.org/live/232492476.php?id=s800esu
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",ESPN News
-https://sc2024.stream-link.org/live/232492476.php?id=s691nsa
+https://sc2024.stream-link.org/live/232492476.php?id=s273esh
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Premier Sports 1
-https://sc2024.stream-link.org/live/232492476.php?id=s700nsr
+https://sc2024.stream-link.org/live/232492476.php?id=s855hsg
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试体育",Premier Sports 2
-https://sc2024.stream-link.org/live/232492476.php?id=s495vsh
+https://sc2024.stream-link.org/live/232492476.php?id=s181jsz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",ANN News
-https://sc2024.stream-link.org/live/232492476.php?id=e311dbe
+https://sc2024.stream-link.org/live/232492476.php?id=e583zau
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",BBC News
-https://sc2024.stream-link.org/live/232492476.php?id=e306kef
+https://sc2024.stream-link.org/live/232492476.php?id=e739zcc
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",Bloomberg
-https://sc2024.stream-link.org/live/232492476.php?id=e130wmq
+https://sc2024.stream-link.org/live/232492476.php?id=e831ndh
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",CBN News
-https://sc2024.stream-link.org/live/232492476.php?id=e610tns
+https://sc2024.stream-link.org/live/232492476.php?id=e924tdf
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",CBS News
-https://sc2024.stream-link.org/live/232492476.php?id=e078zbg
+https://sc2024.stream-link.org/live/232492476.php?id=e927pjv
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",CNA News
-https://sc2024.stream-link.org/live/232492476.php?id=e791gsf
+https://sc2024.stream-link.org/live/232492476.php?id=e963vbc
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",CNBC
-https://sc2024.stream-link.org/live/232492476.php?id=e050fsm
+https://sc2024.stream-link.org/live/232492476.php?id=e380uae
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",CNN Live
-https://sc2024.stream-link.org/live/232492476.php?id=e300thh
+https://sc2024.stream-link.org/live/232492476.php?id=e241esa
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",DW News
-https://sc2024.stream-link.org/live/232492476.php?id=e560zag
+https://sc2024.stream-link.org/live/232492476.php?id=e663juz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",Fox Live
-https://sc2024.stream-link.org/live/232492476.php?id=e368tvc
+https://sc2024.stream-link.org/live/232492476.php?id=e241djb
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",France 24 English
-https://sc2024.stream-link.org/live/232492476.php?id=e118tkr
+https://sc2024.stream-link.org/live/232492476.php?id=e357npp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",NBC News
-https://sc2024.stream-link.org/live/232492476.php?id=e695dst
+https://sc2024.stream-link.org/live/232492476.php?id=e817nsj
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",NHK World Japan
-https://sc2024.stream-link.org/live/232492476.php?id=e005eva
+https://sc2024.stream-link.org/live/232492476.php?id=e721tju
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",SKY News
-https://sc2024.stream-link.org/live/232492476.php?id=e351hbf
+https://sc2024.stream-link.org/live/232492476.php?id=e383tew
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",TRT World
-https://sc2024.stream-link.org/live/232492476.php?id=e665ang
+https://sc2024.stream-link.org/live/232492476.php?id=e274rnr
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",韓聯社新聞
-https://sc2024.stream-link.org/live/232492476.php?id=e785uhk
+https://sc2024.stream-link.org/live/232492476.php?id=e032rcp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",KBS World
-https://sc2024.stream-link.org/live/232492476.php?id=e181jqp
+https://sc2024.stream-link.org/live/232492476.php?id=e378tsa
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",Japan weather news
-https://sc2024.stream-link.org/live/232492476.php?id=e980are
+https://sc2024.stream-link.org/live/232492476.php?id=e283bus
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",Sony GEM
-https://sc2024.stream-link.org/live/232492476.php?id=e555cgk
+https://sc2024.stream-link.org/live/232492476.php?id=e982nzp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",KBC
-https://sc2024.stream-link.org/live/232492476.php?id=e057ggm
+https://sc2024.stream-link.org/live/232492476.php?id=e036gmw
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",PLAYY電影
-https://sc2024.stream-link.org/live/232492476.php?id=e388wdn
+https://sc2024.stream-link.org/live/232492476.php?id=e370uff
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",SONY PIX HD
-https://sc2024.stream-link.org/live/232492476.php?id=e890rbk
+https://sc2024.stream-link.org/live/232492476.php?id=e682unz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",東森新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t569ntz
+https://sc2024.stream-link.org/live/232492476.php?id=t489ztd
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",東森財經新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t997stt
+https://sc2024.stream-link.org/live/232492476.php?id=t480ktr
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",中天新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t446ptw
+https://sc2024.stream-link.org/live/232492476.php?id=t411dtj
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",華視新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t782jtt
+https://sc2024.stream-link.org/live/232492476.php?id=t497nta
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",中視新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t730qtr
+https://sc2024.stream-link.org/live/232492476.php?id=t375mte
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",民視新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t465utu
+https://sc2024.stream-link.org/live/232492476.php?id=t589rtr
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",寰宇國際新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t261ktr
+https://sc2024.stream-link.org/live/232492476.php?id=t163qtw
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",寰宇台灣新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t503gtz
+https://sc2024.stream-link.org/live/232492476.php?id=t553wtn
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",寰宇財經新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t303ptk
+https://sc2024.stream-link.org/live/232492476.php?id=t313ntw
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",三立財經新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t291gtb
+https://sc2024.stream-link.org/live/232492476.php?id=t140ttn
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",三立新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t094jtp
+https://sc2024.stream-link.org/live/232492476.php?id=t451stz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",三立新聞+
-https://sc2024.stream-link.org/live/232492476.php?id=t852mtt
+https://sc2024.stream-link.org/live/232492476.php?id=t346ntq
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",台視新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t844ptg
+https://sc2024.stream-link.org/live/232492476.php?id=t869ktz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",公視新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t922stt
+https://sc2024.stream-link.org/live/232492476.php?id=t779qtp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试新闻",TVBS新聞
-https://sc2024.stream-link.org/live/232492476.php?id=t751etu
+https://sc2024.stream-link.org/live/232492476.php?id=t600dtt
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",TVBS
-https://sc2024.stream-link.org/live/232492476.php?id=t914dtj
+https://sc2024.stream-link.org/live/232492476.php?id=t237utr
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",天才衝衝衝
-https://sc2024.stream-link.org/live/232492476.php?id=t121stf
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",華視
-https://sc2024.stream-link.org/live/232492476.php?id=t140utv
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",中視
-https://sc2024.stream-link.org/live/232492476.php?id=t029ntu
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",台視
-https://sc2024.stream-link.org/live/232492476.php?id=t304rtj
+https://sc2024.stream-link.org/live/232492476.php?id=t454rtz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",TVBS綜藝台
-https://sc2024.stream-link.org/live/232492476.php?id=t098ktt
+https://sc2024.stream-link.org/live/232492476.php?id=t488ptk
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",TVBS台劇台
-https://sc2024.stream-link.org/live/232492476.php?id=t300mtg
+https://sc2024.stream-link.org/live/232492476.php?id=t480hth
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",TVBS精彩台
-https://sc2024.stream-link.org/live/232492476.php?id=t219ztb
+https://sc2024.stream-link.org/live/232492476.php?id=t421ftp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",TVBS歡樂台
-https://sc2024.stream-link.org/live/232492476.php?id=t821dtv
+https://sc2024.stream-link.org/live/232492476.php?id=t120stn
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",TVBS亞洲台
-https://sc2024.stream-link.org/live/232492476.php?id=t206dtc
+https://sc2024.stream-link.org/live/232492476.php?id=t609jtb
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",中天亞洲台
-https://sc2024.stream-link.org/live/232492476.php?id=t245ctg
+https://sc2024.stream-link.org/live/232492476.php?id=t472btf
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",三立綜合台
-https://sc2024.stream-link.org/live/232492476.php?id=t524wtr
+https://sc2024.stream-link.org/live/232492476.php?id=t962gta
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",民視HD
-https://sc2024.stream-link.org/live/232492476.php?id=t439ate
+https://sc2024.stream-link.org/live/232492476.php?id=t192atz
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",民視第一台
-https://sc2024.stream-link.org/live/232492476.php?id=t603utj
+https://sc2024.stream-link.org/live/232492476.php?id=t525wtj
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",民視台灣台
-https://sc2024.stream-link.org/live/232492476.php?id=t471ctz
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",民視綜藝台
-https://sc2024.stream-link.org/live/232492476.php?id=t463wtf
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",民視影劇台
-https://sc2024.stream-link.org/live/232492476.php?id=t070nta
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",民視旅遊台
-https://sc2024.stream-link.org/live/232492476.php?id=t059jtm
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",龙华电影
-https://sc2024.stream-link.org/live/232492476.php?id=t639jtj
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",龍華日韓
-https://sc2024.stream-link.org/live/232492476.php?id=t136nth
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",龍華偶像
-https://sc2024.stream-link.org/live/232492476.php?id=t701dtj
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",龍華戲劇
-https://sc2024.stream-link.org/live/232492476.php?id=t384qtw
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",龍華經典
-https://sc2024.stream-link.org/live/232492476.php?id=t728mtw
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",靖天綜合台
-https://sc2024.stream-link.org/live/232492476.php?id=t676gtm
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",靖天電影台
-https://sc2024.stream-link.org/live/232492476.php?id=t787atb
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",靖天日本台
-https://sc2024.stream-link.org/live/232492476.php?id=t116hts
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",靖天歡樂台
-https://sc2024.stream-link.org/live/232492476.php?id=t352btn
+https://sc2024.stream-link.org/live/232492476.php?id=t668jth
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",尼克兒童頻道
-https://sc2024.stream-link.org/live/232492476.php?id=t241mth
+https://sc2024.stream-link.org/live/232492476.php?id=t109ktj
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",Nick Jr. 兒童頻道
-https://sc2024.stream-link.org/live/232492476.php?id=t176hth
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",ELTV生活英語台
-https://sc2024.stream-link.org/live/232492476.php?id=t065mtp
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",CinemaWorld電影
-https://sc2024.stream-link.org/live/232492476.php?id=t527ttv
+https://sc2024.stream-link.org/live/232492476.php?id=t255hte
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",MTV Live
-https://sc2024.stream-link.org/live/232492476.php?id=t247ktv
+https://sc2024.stream-link.org/live/232492476.php?id=t904ptu
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",History歷史頻道
-https://sc2024.stream-link.org/live/232492476.php?id=t409dts
+https://sc2024.stream-link.org/live/232492476.php?id=t759mtc
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",CI 罪案偵查頻道
-https://sc2024.stream-link.org/live/232492476.php?id=t075vtn
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",愛爾達娛樂台
-https://sc2024.stream-link.org/live/232492476.php?id=t130ftt
+https://sc2024.stream-link.org/live/232492476.php?id=t009ptc
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",愛爾達生活旅遊台
-https://sc2024.stream-link.org/live/232492476.php?id=t663jtu
+https://sc2024.stream-link.org/live/232492476.php?id=t889utp
 #EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",亞洲旅遊台
-https://sc2024.stream-link.org/live/232492476.php?id=t682pte
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",Love Nature
-https://sc2024.stream-link.org/live/232492476.php?id=t958rtr
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",幸福空間居家台
-https://sc2024.stream-link.org/live/232492476.php?id=t651pts
-#EXTINF:-1 tvg-id="" tvg-name="测试频道" group-title="测试港澳台",Lifetime
-https://sc2024.stream-link.org/live/232492476.php?id=t636htt
+https://sc2024.stream-link.org/live/232492476.php?id=t451jtv
